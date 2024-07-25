@@ -1,0 +1,10 @@
+C:\Projects\pie_chart\target\debug\deps\libowned_ttf_parser-f31427b25448cf59.rmeta: C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs
+
+C:\Projects\pie_chart\target\debug\deps\libowned_ttf_parser-f31427b25448cf59.rlib: C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs
+
+C:\Projects\pie_chart\target\debug\deps\owned_ttf_parser-f31427b25448cf59.d: C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs
+
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs:
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs:
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs:
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs:

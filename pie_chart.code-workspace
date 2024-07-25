@@ -1,0 +1,41 @@
+{
+	"settings": {
+		"editor.codeLens": true,
+		"[rust]": {
+			"editor.defaultFormatter": "rust-lang.rust-analyzer",
+			"editor.codeLens": true,
+		},
+		"[json]": {
+			"editor.formatOnSave": true,
+			"editor.defaultFormatter": "vscode.json-language-features"
+		},
+		"[html]": {
+			"editor.formatOnSave": true,
+			"editor.defaultFormatter": "vscode.html-language-features"
+		},		
+		"rust-analyzer.linkedProjects": [
+			"./Cargo.toml",
+		],
+		"editor.tabSize": 4,
+		"workbench.tree.indent": 20,
+		//"editor.formatOnPaste": true,
+		// "editor.formatOnSave": true,
+		"rust-analyzer.showUnlinkedFileNotification": false,
+		"editor.fontFamily": "Fira Code",
+		"editor.fontSize": 16,
+		"editor.fontWeight": "400",
+		"editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+		"workbench.colorTheme": "Catppuccin Mocha",
+		"workbench.iconTheme": "catppuccin-mocha",
+		"workbench.tree.renderIndentGuides": "always",
+		"workbench.colorCustomizations": {
+			"tree.indentGuidesStroke": "#008070",			
+		},		
+		"workbench.list.horizontalScrolling": true,
+	},
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+}

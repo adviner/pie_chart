@@ -1,0 +1,43 @@
+[package]
+name = "pie_chart"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+plotters = "0.3"
+plotters-backend = "0.3"
+rand = "0.8"
+printpdf = {version = "0.7.0", features = ["embedded_images"]}
+lopdf = "0.33"
+image = "0.25"
+# pdf = "0.9"
+# pdf-canvas = "0.7"
+
+
+
+[profile.release]
+# Level of optimization: Ranges from 0 (no optimization) to 3 (maximum optimization)
+opt-level = 3
+
+# Optimize for the current CPU architecture (may not be portable)
+codegen-units = 1
+
+# Use Link Time Optimization for better optimization across crate boundaries
+lto = "fat"
+
+# Embed debug information (set to 0 for no debug info, 2 for full debug info)
+debug = 0
+
+# Strip the binary to remove debug information, reducing file size
+strip = true
+
+# More aggressive inlining of functions
+inline-threshold = 1000
+
+# Control whether overflow checks are performed
+overflow-checks = false
+
+# Panic strategy (set to 'abort' for a slightly smaller binary)
+panic = 'unwind'

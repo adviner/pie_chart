@@ -1,0 +1,11 @@
+C:\Projects\pie_chart\target\debug\deps\libgif-fea1c30aab153f97.rmeta: C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\lib.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\traits.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\common.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\mod.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\decoder.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\encoder.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\../README.md
+
+C:\Projects\pie_chart\target\debug\deps\gif-fea1c30aab153f97.d: C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\lib.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\traits.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\common.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\mod.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\decoder.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\encoder.rs C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\../README.md
+
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\lib.rs:
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\traits.rs:
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\common.rs:
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\mod.rs:
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\reader\decoder.rs:
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\encoder.rs:
+C:\Users\Eric\ Advincula\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gif-0.12.0\src\../README.md:
